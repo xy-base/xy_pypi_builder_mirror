@@ -1,0 +1,1 @@
+DOCKER_BUILDKIT=1 docker build --rm --tag yuyangit/xy_pypi_builder_mirror . $*
