@@ -5,7 +5,7 @@
 
 ## Description
 
-xy open source software package operating environment.
+An image of the pypi environment for compiling Python modules.
 
 ## Source Code Repositories
 
